@@ -2,4 +2,4 @@
 
 Fall 2022: Fork, pull requests, merge conflicts
 
-This is not a creative message.
+OK, the merge conflict is resolved now.
