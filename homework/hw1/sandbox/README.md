@@ -3,5 +3,3 @@
 Fall 2022: Fork, pull requests, merge conflicts
 
 OK, the merge conflict is resolved now.
-
-This is a markdown new line.
